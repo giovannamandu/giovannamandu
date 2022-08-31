@@ -1,6 +1,6 @@
 # Giovanna Mandu
 
-:computer: Estou trabalhando com Front-End, utilizando a framework Angular
+:computer: Estou trabalhando com Front-End utilizando a framework Angular
 
 :books: Estou buscando aprimorar meus conhecimentos em Angular
 
