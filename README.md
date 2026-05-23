@@ -1,34 +1,49 @@
 # Giovanna Mandu
 
-:computer: Estou trabalhando com Front-End utilizando a framework Angular
+🎯 Analista de Dados | Power BI · Python · SQL  
+📍 São Paulo, SP — Brasil
 
-:books: Estou buscando aprimorar meus conhecimentos em Angular
+Transformando dados brutos em insights acionáveis para tomada de decisão executiva. Tenho experiência com dashboards de e-commerce, análise de churn e comportamento de clientes.
 
+---
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+### Dados & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## Contato
+### Visualização
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<div>
-<a href="https://www.linkedin.com/in/giovannamandu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### Ambiente
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Giovanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannamandu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD&text_color=E8EDF2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamandu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=378ADD&text_color=E8EDF2&langs_count=6)
+
 </div>
 
-<br />
+---
 
-<div>
-<a href="https://github.com/giovannamandu">
-<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamandu&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovannamandu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📬 Contato
 
-![Snake animation](https://github.com/giovannamandu/giovannamandu/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannamandu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannacmandu@gmail.com)
 
