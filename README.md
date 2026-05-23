@@ -15,7 +15,6 @@ Transformando dados brutos em insights acionáveis para tomada de decisão execu
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Visualização
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -27,18 +26,6 @@ Transformando dados brutos em insights acionáveis para tomada de decisão execu
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Giovanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannamandu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD&text_color=E8EDF2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamandu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=378ADD&text_color=E8EDF2&langs_count=6)
-
-</div>
 
 ---
 
